@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268359563249",
+    "project_id": "money-plus-84d42",
+    "storage_bucket": "money-plus-84d42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268359563249:android:e633355e45017c15dab650",
+        "android_client_info": {
+          "package_name": "com.moneyplus.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMNhRAAK2_2Eiw6ckKI7jEc7TnQR8X58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268359563249:android:c8646f4ce4c66a6fdab650",
+        "android_client_info": {
+          "package_name": "com.moneyplus.app.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMNhRAAK2_2Eiw6ckKI7jEc7TnQR8X58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
