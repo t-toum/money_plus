@@ -1,4 +1,4 @@
-package com.moneyplus.app.money_plus
+package com.moneyplus.app
 
 import io.flutter.embedding.android.FlutterActivity
 
